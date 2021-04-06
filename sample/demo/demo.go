@@ -1,9 +1,10 @@
 package demo
 
 import (
-	"github.com/shibukawa/nanovgo"
 	"math"
 	"strconv"
+
+	"github.com/polygon-io/nanovgo"
 )
 
 const (

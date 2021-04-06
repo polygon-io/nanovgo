@@ -4,12 +4,13 @@ package main
 
 import (
 	"fmt"
+	"log"
+
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
-	"github.com/shibukawa/nanovgo"
-	"github.com/shibukawa/nanovgo/perfgraph"
-	"github.com/shibukawa/nanovgo/sample/demo"
-	"log"
+	"github.com/polygon-io/nanovgo"
+	"github.com/polygon-io/nanovgo/perfgraph"
+	"github.com/polygon-io/nanovgo/sample/demo"
 )
 
 var blowup bool
